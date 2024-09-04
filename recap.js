@@ -6,10 +6,10 @@
 const amount = 200;
 
 // condition
-if(amount > 100){
+if (amount > 100) {
 
 }
-else{
+else {
 
 }
 
